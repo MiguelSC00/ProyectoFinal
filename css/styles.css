@@ -23,7 +23,7 @@ body {
     padding: 3rem;
 }
 
-header {
+.main-header {
     background-image: url(../img/main-header-pic.webp) ;
     background-position: center center;
     background-size: cover;
@@ -35,7 +35,7 @@ header {
 }
 
 nav {
-    height: 70px;
+    height: 75px;
     background-color: rgb(15, 15, 15);
     position: fixed;
     top: 0;
